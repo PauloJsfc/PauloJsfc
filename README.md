@@ -4,10 +4,6 @@
   <i>Estudante de Ciência da Computação na UFPB | Desenvolvedor Web em formação</i>
 </p>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Brasão_UFPB.png/600px-Brasão_UFPB.png](https://www.ufpb.br/aci/contents/imagens/diversos/logoufpb.png/@@images/image.png)" alt="Logo UFPB" height="100" />
-</p>
-
 ---
 
 ### Tecnologias e Ferramentas
