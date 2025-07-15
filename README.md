@@ -5,20 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Brasão_UFPB.png/600px-Brasão_UFPB.png" alt="Logo UFPB" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Brasão_UFPB.png/600px-Brasão_UFPB.png](https://www.ufpb.br/aci/contents/imagens/diversos/logoufpb.png/@@images/image.png)" alt="Logo UFPB" height="100" />
 </p>
 
 ---
 
-### 🧠 Sobre mim
-
-🎓 Atualmente sou estudante de **Ciência da Computação** na **UFPB**  
-💻 Foco em desenvolvimento **Web** e aprendizado contínuo  
-📈 Buscando oportunidades para colocar minhas *skills* em prática e colaborar em projetos reais
-
----
-
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
@@ -30,7 +22,7 @@
 
 ---
 
-### 📫 Contato
+### Contato
 
 <p align="left">
   <a href="mailto:paulo.ferreira@dcx.ufpb.br">
